@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23010547/README.md)[Upload## CS 210 Portfolio Submission
+## CS 210 Portfolio Submission
 
 **Project:** *The Corner Grocer Inventory Program*  
 **Language:** C++  
