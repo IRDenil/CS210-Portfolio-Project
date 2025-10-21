@@ -63,10 +63,10 @@ Use these resources to manage branches, features, and merges efficiently.
 ---
 
 ## 📬 Submission Instructions
-For Brightspace:
+For Brightspace submission to **Professor Cynthia Marcello**:
 - Submit the **link to your GitHub repository** (above).  
 - Ensure your repository includes:  
   - All project files in the **Project_Files** folder  
   - This completed **README.md** file with reflection and workflow instructions  
 
-Since the repository is public, no collaborator access is required. Your instructor can access it directly via the provided link.
+Since the repository is public, no collaborator access is required. Professor Cynthia Marcello can access it directly via the provided link.
