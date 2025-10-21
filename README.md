@@ -62,16 +62,11 @@ Use these resources to manage branches, features, and merges efficiently.
 
 ---
 
-## 🔗 Repository Link
-👉 [https://github.com/IRDenil/CS210-Portfolio-Project](https://github.com/IRDenil/CS210-Portfolio-Project)
-
----
-
 ## 📬 Submission Instructions
 For Brightspace:
 - Submit the **link to your GitHub repository** (above).  
-- Confirm your instructor has been added as a **collaborator** on GitHub.  
 - Ensure your repository includes:  
   - All project files in the **Project_Files** folder  
-  - This completed **README.md** file with reflection and workflow instructions
-ing README.md…]()
+  - This completed **README.md** file with reflection and workflow instructions  
+
+Since the repository is public, no collaborator access is required. Your instructor can access it directly via the provided link.
